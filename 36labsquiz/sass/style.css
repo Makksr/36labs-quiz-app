@@ -1,0 +1,165 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+.fade-enter-active, .fade-leave-active {
+  -webkit-transition: all 0.8s ease;
+  transition: all 0.8s ease;
+  overflow: hidden;
+  visibility: visible;
+  opacity: 1;
+  position: absolute;
+}
+
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+  visibility: hidden;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  font-family: "Nunito", sans-serif;
+}
+
+#login-btn-div {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  text-align: center;
+  background: #fff;
+  -webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+          box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+}
+
+#login-btn-div .login-btn {
+  z-index: 101;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 4px;
+  font-family: "Nunito", sans-serif;
+}
+
+#login-btn-div .login-btn a {
+  font-weight: 900;
+  display: inline-block;
+  font-size: 18px;
+  padding: 20px 0px;
+  width: 100%;
+  color: #232424 !important;
+  text-decoration: none;
+}
+
+#login-btn-div .login-btn a:active {
+  text-decoration: none;
+}
+
+#login-btn-div:hover {
+  background: #eee;
+  color: #333;
+}
+
+#login-carousel {
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+}
+
+#login-carousel li {
+  list-style: none;
+}
+
+#dot-list {
+  text-align: center;
+  z-index: 100;
+  margin: 0px auto;
+  bottom: 12%;
+  position: absolute;
+  left: 47%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+
+@media (max-width: 786px) {
+  #dot-list {
+    left: 40%;
+    bottom: 6%;
+  }
+}
+
+#dot-list li {
+  display: inline-block;
+  position: relative;
+  margin: 0px 15px;
+}
+
+#dot-list li .active {
+  background: #232424;
+}
+
+#dot-list .dot {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  cursor: pointer;
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #eee;
+  border-radius: 50%;
+  border: 2px solid #232424;
+  -webkit-transition: background-color 0.6s ease;
+  transition: background-color 0.6s ease;
+  position: absolute;
+  margin: 10px 10px;
+}
+
+#dot-list .dot:hover {
+  background-color: #232423;
+  padding: 8px;
+  -webkit-transform: translate(-4px, -4px);
+          transform: translate(-4px, -4px);
+  -webkit-transition: -webkit-transform 0.4s ease;
+  transition: -webkit-transform 0.4s ease;
+  transition: transform 0.4s ease;
+  transition: transform 0.4s ease, -webkit-transform 0.4s ease;
+}
+
+@media (max-width: 786px) {
+  #dot-list .dot {
+    z-index: 1000;
+  }
+}
+
+#image-slider {
+  text-align: center;
+  margin: 0px auto;
+}
+
+#image-slider img {
+  text-align: center;
+  margin: 0px auto;
+}
+
+#image-slider .login-slider {
+  max-width: 100%;
+  height: 50vh;
+}
+
+@media (max-width: 786px) {
+  #image-slider .login-slider {
+    height: auto;
+  }
+}
+
+#log-image {
+  text-align: center;
+  margin: 0px auto;
+}
+
+#main {
+  background: url("../images/dot.png") repeat;
+  width: 100%;
+  height: 100vh;
+}
+/*# sourceMappingURL=style.css.map */

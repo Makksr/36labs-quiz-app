@@ -1,0 +1,14 @@
+@mixin log(){
+    // content:"";
+    max-width:100%;
+    min-width:100%;
+    height:600px;
+    position: absolute;
+  
+  }
+  @mixin mediaLogin(){
+    background-size:cover;
+    background-position:top;
+    min-width:100%;
+    height:600px
+  }
