@@ -1,5 +1,5 @@
 // import header from '@../component/header'
-const login =Vue.component('login-button',{
+const logbtn =Vue.component('login-button',{
     template:`
     <div id="login-btn-div">
     <span class="login-btn"><router-link to="/login">LOGIN</router-link></span>
@@ -55,7 +55,20 @@ const login =Vue.component('login-button',{
           },
          
         }
-                 });      
+                 });
+    const login = Vue.component('login-page',{
+        template:`<div id="login-box">
+       <div class="container">
+       <div class="row">
+       <svg width=200 height=200 
+     xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink">       
+  <image xlink:href="images/XMLID_1_.svg" height="200" width="200"/>    
+</svg>
+       </div>
+       </div>
+        </div>`
+    });    
 
 new Vue({
     el:'#log-btn'
@@ -68,12 +81,15 @@ const NotfoundComponent = {
 const routes = [
 	{
   	path: '/',
-  	component: slide
+      component: slide,
+      children:[
+        {
+            path: 'login',
+            component: login
+        },
+      ]
   },
-  {
-  	path: '/login',
-  	component: login
-  },
+  
   {
   	path: '*',
     component: NotfoundComponent

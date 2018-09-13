@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-dot);
+      }
+
+      .cls-2 {
+        fill: #ededed;
+      }
+
+      .cls-3 {
+        opacity: 0.12;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-dot">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="dot" class="cls-1">
+    <rect class="cls-4" width="50" height="50"/>
+    <g id="Group_524" data-name="Group 524">
+      <rect id="dot_1_" data-name="dot (1)" class="cls-2" width="50" height="50"/>
+      <circle id="Ellipse_267" data-name="Ellipse 267" class="cls-3" cx="2" cy="2" r="2" transform="translate(23 23)"/>
+    </g>
+  </g>
+</svg>

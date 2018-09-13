@@ -1,7 +1,7 @@
 @import 'mixin';
-@import url('https://fonts.googleapis.com/css?family=Nunito');
-$darkgrey:#232424;
-$fstyle:'Nunito', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+$darkgrey:#333333;
+$fstyle:'Roboto', sans-serif;
 .fade-enter-active, .fade-leave-active {
   transition: all 0.8s ease;
   overflow: hidden;
@@ -12,6 +12,9 @@ $fstyle:'Nunito', sans-serif;
 .fade-enter, .fade-leave-to {
   opacity: 0;
   visibility: hidden;
+}
+h1{
+  margin:0px;
 }
 body{
   margin:0px;
@@ -131,7 +134,15 @@ body{
   margin:0px auto;
 }
 #main{
-  background:url('../images/dot.png') repeat;
+  background:url('../images/dot.svg') repeat;
+  background-size:50px 50px;
   width:100%;
   height:100vh;
+}
+#login-box{
+  text-align:center;
+  margin:0px auto;
+  .container{
+    margin:0 5%;
+  }
 }

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1920">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-CREATE_0);
+      }
+
+      .cls-2, .cls-6 {
+        fill: #333;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 48px;
+        letter-spacing: 0.025em;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-8 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-5 {
+        font-size: 36px;
+        letter-spacing: 0.042em;
+        opacity: 0.5;
+      }
+
+      .cls-6 {
+        font-size: 50px;
+        letter-spacing: 0.079em;
+      }
+
+      .cls-7 {
+        fill: #343434;
+      }
+
+      .cls-8 {
+        font-size: 35px;
+        letter-spacing: 0.223em;
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_103);
+      }
+
+      .cls-10 {
+        filter: url(#Rectangle_102);
+      }
+    </style>
+    <filter id="Rectangle_102" x="162.5" y="332.5" width="756" height="269" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25.5" result="blur"/>
+      <feFlood flood-color="#090626" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_103" x="162.5" y="491.5" width="756" height="269" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25.5" result="blur-2"/>
+      <feFlood flood-color="#090626" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-CREATE_0">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+  </defs>
+  <g id="CREATE_0" data-name="CREATE – 0" class="cls-1">
+    <rect class="cls-3" width="1080" height="1920"/>
+    <rect id="XMLID_99_" class="cls-2" width="1080" height="227.3"/>
+    <g id="Group_321" data-name="Group 321">
+      <path id="XMLID_1_" class="cls-3" d="M41.1,16.057H12.665V6.2L0,18.865,12.665,31.529v-9.8H41.1Z" transform="translate(54 98.335)"/>
+      <text id="Create_a_game" data-name="Create a game" class="cls-4" transform="translate(149 106)"><tspan x="0" y="0">Create a game</tspan></text>
+      <text id="Wallet:_2._435.00" data-name="Wallet: 2. 435.00" class="cls-5" transform="translate(149 163)"><tspan x="0" y="0">Wallet: 2. 435.00</tspan></text>
+    </g>
+    <text id="_1._Choose_whom_to_play_with" data-name="1. Choose whom to play with" class="cls-6" transform="translate(75 324)"><tspan x="0" y="0">1. Choose whom to play with</tspan></text>
+    <g id="Group_458" data-name="Group 458" transform="translate(0 -563)">
+      <g class="cls-10" transform="matrix(1, 0, 0, 1, 0, 563)">
+        <rect id="Rectangle_102-2" data-name="Rectangle 102" class="cls-7" width="603" height="116" rx="15" transform="translate(239 397)"/>
+      </g>
+      <text id="GO_LIVE_" data-name="GO LIVE !" class="cls-8" transform="translate(541 1030)"><tspan x="-103.595" y="0">GO LIVE !</tspan></text>
+    </g>
+    <g id="Group_459" data-name="Group 459" transform="translate(0 -586)">
+      <g class="cls-9" transform="matrix(1, 0, 0, 1, 0, 586)">
+        <rect id="Rectangle_103-2" data-name="Rectangle 103" class="cls-7" width="603" height="116" rx="15" transform="translate(239 556)"/>
+      </g>
+      <text id="INVITE_FRIENDS" data-name="INVITE FRIENDS" class="cls-8" transform="translate(541 1212)"><tspan x="-174.002" y="0">INVITE FRIENDS</tspan></text>
+    </g>
+  </g>
+</svg>

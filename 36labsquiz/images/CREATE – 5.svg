@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1920">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-CREATE_5);
+      }
+
+      .cls-11, .cls-14, .cls-15, .cls-2, .cls-6, .cls-8 {
+        fill: #333;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 48px;
+        letter-spacing: 0.025em;
+      }
+
+      .cls-11, .cls-14, .cls-15, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-14, .cls-5, .cls-6 {
+        font-size: 36px;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.042em;
+      }
+
+      .cls-11, .cls-14, .cls-5 {
+        opacity: 0.5;
+      }
+
+      .cls-7 {
+        fill: #343434;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 35px;
+        letter-spacing: 0.081em;
+      }
+
+      .cls-9 {
+        fill: #dfdfdf;
+      }
+
+      .cls-10 {
+        fill: #b4b4b4;
+      }
+
+      .cls-11, .cls-15 {
+        font-size: 50px;
+        letter-spacing: 0.079em;
+      }
+
+      .cls-12 {
+        fill: none;
+      }
+
+      .cls-13 {
+        fill-rule: evenodd;
+        opacity: 0.54;
+      }
+    </style>
+    <clipPath id="clip-CREATE_5">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+  </defs>
+  <g id="CREATE_5" data-name="CREATE – 5" class="cls-1">
+    <rect class="cls-3" width="1080" height="1920"/>
+    <rect id="XMLID_99_" class="cls-2" width="1080" height="227.3"/>
+    <g id="Group_324" data-name="Group 324">
+      <path id="XMLID_1_" class="cls-3" d="M41.1,16.057H12.665V6.2L0,18.865,12.665,31.529v-9.8H41.1Z" transform="translate(54 98.335)"/>
+      <text id="Pick_subcategories" data-name="Pick subcategories" class="cls-4" transform="translate(149 106)"><tspan x="0" y="0">Pick subcategories</tspan></text>
+      <text id="Wallet:_2._435.00" data-name="Wallet: 2. 435.00" class="cls-5" transform="translate(149 163)"><tspan x="0" y="0">Wallet: 2. 435.00</tspan></text>
+    </g>
+    <text id="Categories_Comic_Books" data-name="Categories     &gt;&gt;      Comic Books" class="cls-6" transform="translate(54 571)"><tspan x="0" y="0" xml:space="preserve">Categories     &gt;&gt;      Comic Books</tspan></text>
+    <text id="DC_Comics" data-name="DC Comics" class="cls-7" transform="translate(242 721)"><tspan x="0" y="0">DC Comics</tspan></text>
+    <text id="Marvel" class="cls-8" transform="translate(242 913)"><tspan x="0" y="0">Marvel</tspan></text>
+    <g id="Group_523" data-name="Group 523">
+      <rect id="Rectangle_84" data-name="Rectangle 84" class="cls-9" width="955" height="163" rx="15" transform="translate(54 626)"/>
+      <rect id="Rectangle_85" data-name="Rectangle 85" class="cls-9" width="955" height="163" rx="15" transform="translate(54 819)"/>
+      <rect id="Rectangle_86" data-name="Rectangle 86" class="cls-9" width="955" height="163" rx="15" transform="translate(54 1012)"/>
+    </g>
+    <text id="MCU_-_Movies_only" data-name="MCU - Movies only" class="cls-8" transform="translate(242 1107)"><tspan x="0" y="0">MCU - Movies only</tspan></text>
+    <rect id="Rectangle_87" data-name="Rectangle 87" class="cls-9" width="955" height="163" rx="15" transform="translate(54 1205)"/>
+    <text id="NolansBatmanTrilogy" class="cls-8" transform="translate(242 1315)"><tspan x="0" y="0">NolansBatmanTrilogy</tspan></text>
+    <rect id="Rectangle_88" data-name="Rectangle 88" class="cls-9" width="955" height="163" rx="15" transform="translate(54 1398)"/>
+    <text id="Lorem_ipsum" data-name="Lorem ipsum" class="cls-8" transform="translate(242 1492)"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+    <rect id="Rectangle_93" data-name="Rectangle 93" class="cls-10" width="163" height="163" rx="15" transform="translate(54 626)"/>
+    <rect id="Rectangle_94" data-name="Rectangle 94" class="cls-10" width="163" height="163" rx="15" transform="translate(54 819)"/>
+    <rect id="Rectangle_95" data-name="Rectangle 95" class="cls-10" width="163" height="163" rx="15" transform="translate(54 1012)"/>
+    <rect id="Rectangle_96" data-name="Rectangle 96" class="cls-10" width="163" height="163" rx="15" transform="translate(54 1205)"/>
+    <rect id="Rectangle_97" data-name="Rectangle 97" class="cls-10" width="163" height="163" rx="15" transform="translate(54 1398)"/>
+    <rect id="Rectangle_92" data-name="Rectangle 92" class="cls-9" width="955" height="163" rx="15" transform="translate(54 1591)"/>
+    <text id="Marvel-2" data-name="Marvel" class="cls-8" transform="translate(242 1685)"><tspan x="0" y="0">Marvel</tspan></text>
+    <rect id="Rectangle_91" data-name="Rectangle 91" class="cls-9" width="955" height="163" rx="15" transform="translate(54 1784)"/>
+    <rect id="Rectangle_98" data-name="Rectangle 98" class="cls-10" width="163" height="163" rx="15" transform="translate(54 1591)"/>
+    <rect id="Rectangle_99" data-name="Rectangle 99" class="cls-10" width="163" height="163" rx="15" transform="translate(54 1784)"/>
+    <text id="_1._Choose_whom_to_play_with" data-name="1. Choose whom to play with" class="cls-11" transform="translate(75 324)"><tspan x="0" y="0">1. Choose whom to play with</tspan></text>
+    <g id="ic_check" transform="translate(-19 -253.1)">
+      <rect id="rectangle" class="cls-12" width="45.8" height="45.8" transform="translate(982.1 538.1)"/>
+      <path id="path" class="cls-13" d="M14.087,25.828,6.072,17.813,3.4,20.485,14.087,31.172l22.9-22.9L34.315,5.6Z" transform="translate(985.188 543.187)"/>
+    </g>
+    <text id="_5_Friends_selected" data-name="5 Friends selected" class="cls-14" transform="translate(75 392)"><tspan x="0" y="0">5 Friends selected</tspan></text>
+    <text id="MCU_-_Movies_only-2" data-name="MCU - Movies only" class="cls-8" transform="translate(242 1879)"><tspan x="0" y="0">MCU - Movies only</tspan></text>
+    <text id="_2._Pick_a_subcategory" data-name="2. Pick a subcategory" class="cls-15" transform="translate(66 503)"><tspan x="0" y="0">2. Pick a subcategory</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1920">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-CREATE_5);
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-2, .cls-6, .cls-9 {
+        fill: #333;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 48px;
+        letter-spacing: 0.025em;
+      }
+
+      .cls-11, .cls-12, .cls-4, .cls-5, .cls-6, .cls-9 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-5, .cls-9 {
+        font-size: 36px;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.042em;
+      }
+
+      .cls-5, .cls-6, .cls-9 {
+        opacity: 0.5;
+      }
+
+      .cls-12, .cls-13, .cls-6 {
+        font-size: 50px;
+      }
+
+      .cls-11, .cls-12, .cls-6 {
+        letter-spacing: 0.079em;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill-rule: evenodd;
+        opacity: 0.54;
+      }
+
+      .cls-10 {
+        fill: #ededed;
+      }
+
+      .cls-11 {
+        font-size: 78px;
+      }
+
+      .cls-12 {
+        opacity: 0.55;
+      }
+
+      .cls-13 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        letter-spacing: 0.3em;
+      }
+
+      .cls-14 {
+        filter: url(#Rectangle_167);
+      }
+    </style>
+    <filter id="Rectangle_167" x="-76.5" y="1685.5" width="1234" height="323" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25.5" result="blur"/>
+      <feFlood flood-color="#090626" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-CREATE_5">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+  </defs>
+  <g id="CREATE_5" data-name="CREATE – 5" class="cls-1">
+    <rect class="cls-3" width="1080" height="1920"/>
+    <rect id="XMLID_99_" class="cls-2" width="1080" height="227.3"/>
+    <g id="Group_324" data-name="Group 324">
+      <path id="XMLID_1_" class="cls-3" d="M41.1,16.057H12.665V6.2L0,18.865,12.665,31.529v-9.8H41.1Z" transform="translate(54 98.335)"/>
+      <text id="Buyin" class="cls-4" transform="translate(149 106)"><tspan x="0" y="0">Buyin</tspan></text>
+      <text id="Wallet:_2._435.00" data-name="Wallet: 2. 435.00" class="cls-5" transform="translate(149 163)"><tspan x="0" y="0">Wallet: 2. 435.00</tspan></text>
+    </g>
+    <text id="_1._Choose_whom_to_play_with" data-name="1. Choose whom to play with" class="cls-6" transform="translate(75 324)"><tspan x="0" y="0">1. Choose whom to play with</tspan></text>
+    <g id="ic_check" transform="translate(-19 -253.1)">
+      <rect id="rectangle" class="cls-7" width="45.8" height="45.8" transform="translate(982.1 538.1)"/>
+      <path id="path" class="cls-8" d="M14.087,25.828,6.072,17.813,3.4,20.485,14.087,31.172l22.9-22.9L34.315,5.6Z" transform="translate(985.188 543.187)"/>
+    </g>
+    <text id="_5_Friends_selected" data-name="5 Friends selected" class="cls-9" transform="translate(75 396)"><tspan x="0" y="0">5 Friends selected</tspan></text>
+    <text id="_2._Pick_a_subcategory" data-name="2. Pick a subcategory" class="cls-6" transform="translate(75 503)"><tspan x="0" y="0">2. Pick a subcategory</tspan></text>
+    <text id="Categories_Comic_Books_DC_Comics" data-name="Categories     &gt;&gt;      Comic Books     &gt;&gt;       DC Comics" class="cls-9" transform="translate(63 575)"><tspan x="0" y="0" xml:space="preserve">Categories     &gt;&gt;      Comic Books     &gt;&gt;       DC Comics</tspan></text>
+    <rect id="Rectangle_166" data-name="Rectangle 166" class="cls-10" width="1083" height="163" transform="translate(-3 634)"/>
+    <g id="Group_466" data-name="Group 466" transform="translate(0 153)">
+      <text id="_" data-name="| " class="cls-11" transform="translate(67 588)"><tspan x="0" y="0">| </tspan></text>
+      <text id="_3._Enter_buyin" data-name="3. Enter buyin" class="cls-12" transform="translate(98 581)"><tspan x="0" y="0">3. Enter buyin</tspan></text>
+    </g>
+    <g id="ic_check-2" data-name="ic_check" transform="translate(-8 -74)">
+      <rect id="rectangle-2" data-name="rectangle" class="cls-7" width="45.8" height="45.8" transform="translate(982.1 538.1)"/>
+      <path id="path-2" data-name="path" class="cls-8" d="M14.087,25.828,6.072,17.813,3.4,20.485,14.087,31.172l22.9-22.9L34.315,5.6Z" transform="translate(985.188 543.187)"/>
+    </g>
+    <g class="cls-14" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_167-2" data-name="Rectangle 167" class="cls-3" width="1081" height="170" transform="translate(0 1750)"/>
+    </g>
+    <text id="START_GAME" data-name="START GAME" class="cls-13" transform="translate(540 1852)"><tspan x="-221.943" y="0">START GAME</tspan></text>
+  </g>
+</svg>

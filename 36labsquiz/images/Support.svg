@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1920">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Support);
+      }
+
+      .cls-2 {
+        fill: #333;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 48px;
+        letter-spacing: 0.025em;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-5 {
+        font-size: 36px;
+        letter-spacing: 0.042em;
+      }
+
+      .cls-5, .cls-7 {
+        opacity: 0.5;
+      }
+
+      .cls-6 {
+        font-size: 40px;
+      }
+
+      .cls-7 {
+        font-size: 25px;
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_113-2);
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_113);
+      }
+    </style>
+    <filter id="Rectangle_113" x="-6" y="217" width="1093" height="325" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="23" result="blur"/>
+      <feFlood flood-color="#110d24" flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_113-2" x="-6" y="448" width="1093" height="325" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="23" result="blur-2"/>
+      <feFlood flood-color="#110d24" flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Support">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+  </defs>
+  <g id="Support" class="cls-1">
+    <rect class="cls-3" width="1080" height="1920"/>
+    <rect id="XMLID_99_" class="cls-2" width="1080" height="227.3"/>
+    <g id="Group_328" data-name="Group 328">
+      <path id="XMLID_1_" class="cls-3" d="M41.1,16.057H12.665V6.2L0,18.865,12.665,31.529v-9.8H41.1Z" transform="translate(54 98.335)"/>
+      <text id="Support-2" data-name="Support" class="cls-4" transform="translate(149 106)"><tspan x="0" y="0">Support</tspan></text>
+      <text id="_2_running_issues" data-name="2 running issues" class="cls-5" transform="translate(149 163)"><tspan x="0" y="0">2 running issues</tspan></text>
+    </g>
+    <g id="Group_302" data-name="Group 302" transform="translate(0 -17)">
+      <g class="cls-9" transform="matrix(1, 0, 0, 1, 0, 17)">
+        <rect id="Rectangle_113-3" data-name="Rectangle 113" class="cls-3" width="955" height="187" rx="15" transform="translate(63 274)"/>
+      </g>
+      <g id="Group_301" data-name="Group 301" transform="translate(-24 -80.668)">
+        <text id="_0_unread_messages" data-name="0 unread messages" class="cls-6" transform="translate(115 441.668)"><tspan x="0" y="0">0 unread messages</tspan></text>
+        <text id="Lorem_ipsum_dolor_sit_emit_lorem_ipsum_dolor_sit_emit_dolor_sit_emit_dolor_sit_emit_dolor_sit_emit_dolor_sit_emit_dolor_sit_em..." data-name="Lorem ipsum dolor sit emit lorem ipsum dolor sit emit dolor sit emit dolor sit emit
+dolor sit emit dolor sit emit dolor sit em..." class="cls-7" transform="translate(115 491.668)"><tspan x="0" y="0">Lorem ipsum dolor sit emit lorem ipsum dolor sit emit dolor sit emit dolor sit emit</tspan><tspan x="0" y="33">dolor sit emit dolor sit emit dolor sit em...</tspan></text>
+      </g>
+    </g>
+    <g id="Group_303" data-name="Group 303" transform="translate(0 214)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, 0, -214)">
+        <rect id="Rectangle_113-4" data-name="Rectangle 113" class="cls-3" width="955" height="187" rx="15" transform="translate(63 505)"/>
+      </g>
+      <g id="Group_301-2" data-name="Group 301" transform="translate(-24 -80.668)">
+        <text id="_0_unread_messages-2" data-name="0 unread messages" class="cls-6" transform="translate(115 441.668)"><tspan x="0" y="0">0 unread messages</tspan></text>
+        <text id="Lorem_ipsum_dolor_sit_emit_lorem_ipsum_dolor_sit_emit_dolor_sit_emit_dolor_sit_emit_dolor_sit_emit_dolor_sit_emit_dolor_sit_em...-2" data-name="Lorem ipsum dolor sit emit lorem ipsum dolor sit emit dolor sit emit dolor sit emit
+dolor sit emit dolor sit emit dolor sit em..." class="cls-7" transform="translate(115 491.668)"><tspan x="0" y="0">Lorem ipsum dolor sit emit lorem ipsum dolor sit emit dolor sit emit dolor sit emit</tspan><tspan x="0" y="33">dolor sit emit dolor sit emit dolor sit em...</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
